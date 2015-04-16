@@ -4,7 +4,7 @@
 
 ```
 autoreconf -fvi
-./configure --prefix=/
+./configure --prefix=""
 make DESTDIR=<path> install
 ```
 
